@@ -1,0 +1,80 @@
+
+.Header {
+    color:white;
+    font-family:'Montserrat', sans-serif;
+    font-size:1.25rem;
+    display: flex;
+    justify-content: space-evenly;
+    align-items: center;
+}
+
+.line{
+    color:whitesmoke;
+    padding: 0 1rem;
+    opacity: 50;
+}
+
+.projectTitle{
+    display: flex;
+    padding-left: 3rem;
+}
+
+.Navigation{
+    display: flex;
+    padding-right: 3rem;
+}
+
+.mainComponents{
+    padding: 3rem;
+    display: flex;
+    justify-content: space-evenly;
+}
+
+.Camera {
+    display: flex;
+    justify-content: center;
+}
+
+.WebcamFeed {
+    border:none;
+    border-radius: 20px;
+}
+
+.TT {
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.optxt {
+    flex-grow: 10;
+    color:white;
+    font-family:'Montserrat', sans-serif;
+    font-size:1.25rem;
+}
+
+.audioButton {
+    flex-grow: 1;
+    flex-basis: auto;
+    border: 0;
+    background-color: #1c1b18;
+    color:white;
+    font-family: 'Montserrat', sans-serif;
+    font-size: 1.5rem;
+    border-radius: 7px;
+    margin: 1.5rem;
+    margin-inline: 0.7rem;
+    padding: 1rem;
+}
+.audioButton:hover{
+    background-color: #434343;
+    cursor: pointer;
+}
+
+.About {
+    color:white;
+    font-family:'Montserrat', sans-serif;
+    font-size:1.25rem;
+    padding: 0 3rem;
+}
