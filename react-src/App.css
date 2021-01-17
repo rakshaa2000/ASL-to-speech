@@ -1,6 +1,6 @@
 
 .Header {
-    color:white;
+    color:rgb(31, 31, 31);
     font-family:'Montserrat', sans-serif;
     font-size:1.25rem;
     display: flex;
@@ -9,7 +9,7 @@
 }
 
 .line{
-    color:whitesmoke;
+    color:rgb(31, 31, 31);
     padding: 0 1rem;
     opacity: 50;
 }
@@ -49,7 +49,7 @@
 
 .optxt {
     flex-grow: 10;
-    color:white;
+    color:rgb(31, 31, 31);
     font-family:'Montserrat', sans-serif;
     font-size:1.25rem;
 }
@@ -73,7 +73,7 @@
 }
 
 .About {
-    color:white;
+    color:rgb(31, 31, 31);
     font-family:'Montserrat', sans-serif;
     font-size:1.25rem;
     padding: 0 3rem;
